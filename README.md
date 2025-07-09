@@ -1,1 +1,1 @@
-# lpg1-project
+# java-project-ifsp
