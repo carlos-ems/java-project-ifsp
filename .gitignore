@@ -4,11 +4,9 @@ tarefas.db
 # Ignora o diretório com o driver do SQLite
 lib/
 
-# Ignora arquivos temporários do sistema operacional
+# Ignora arquivos temporários do sistema operacional e do IDE
 .DS_Store
 Thumbs.db
-
-# Ignora arquivos temporários da IDE
 *.iml
 .idea/
 .vscode/
