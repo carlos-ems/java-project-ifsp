@@ -1,0 +1,14 @@
+# Ignora o banco de dados local SQLite
+tarefas.db
+
+# Ignora o diretório com o driver do SQLite
+lib/
+
+# Ignora arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignora arquivos temporários de IDEs (caso use)
+*.iml
+.idea/
+.vscode/
