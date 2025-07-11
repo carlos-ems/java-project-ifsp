@@ -45,6 +45,7 @@ public class Tarefa {
     @Override
     public String toString() {
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm");
+        
         return String.format(
             "Nome da Tarefa: %s | Descrição: %s | Status: [%s] | Data de Alteração: %s",
             nomeTarefa,
