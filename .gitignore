@@ -8,7 +8,7 @@ lib/
 .DS_Store
 Thumbs.db
 
-# Ignora arquivos temporários de IDEs (caso use)
+# Ignora arquivos temporários da IDE
 *.iml
 .idea/
 .vscode/
